@@ -4,6 +4,6 @@ function palabras(str) {
         return vocales.indexOf(data.toLowerCase())!=-1;
     }).join('');
 }
-const p1=palabras("Esmeraldas");
+const p1=palabras("EsmeraldAs");
 console.log(p1); 
 
